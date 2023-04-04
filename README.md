@@ -1,2 +1,1 @@
-My first readme file for alx project
-testing
+set up to date
